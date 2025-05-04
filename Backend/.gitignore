@@ -1,0 +1,13 @@
+./node_modules
+node_modules
+
+./config/config.env
+./config/config.env
+config.env
+
+./package.json
+/package.json
+package.json
+
+./package-lock.json
+/package-lock.json
